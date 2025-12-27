@@ -1,2 +1,2 @@
 # WoW335a-Reverse-Engineering-Journey
-Follow along my journey of reverse engineering the WoW 335a client.
+Welcome to my reverse engineering journey, here I will be posting about the progress I make.
