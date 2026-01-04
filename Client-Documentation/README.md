@@ -35,7 +35,7 @@ Below you find all the people who has ever helped me with anything related to re
 - **[SomeWeirdHuman](https://github.com/someweirdhuman)**
 - **[THE-GOD-OF-WORLD-OF-WARCRAFT](https://github.com/THE-GOD-OF-WORLD-OF-WARCRAFT)**
 - **[gromchek](https://github.com/gromchek)**
-- **[Saty](Not sure yet, will update when I know)**
+- **[Saty](https://github.com/SatyPardus)**
 - **[xidk](Not sure yet, will update when I know)**
 
 **Special Thanks:**
