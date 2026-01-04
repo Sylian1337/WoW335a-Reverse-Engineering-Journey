@@ -12,7 +12,7 @@ Welcome to my reverse engineering journey, here I will be posting about the prog
 
 Below you find all the people who has ever helped me with anything related to reversing the client.
 
-** Credits Goes To For Helping: **
+**Credits Goes To For Helping:**
 - **[Kaev](https://github.com/Kaev)**
 - **[SomeWeirdHuman](https://github.com/someweirdhuman)**
 - **[THE-GOD-OF-WORLD-OF-WARCRAFT](https://github.com/THE-GOD-OF-WORLD-OF-WARCRAFT)**
