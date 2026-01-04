@@ -16,6 +16,7 @@ Below you find all the people who has ever helped me with anything related to re
 - **[Kaev](https://github.com/Kaev)**
 - **[SomeWeirdHuman](https://github.com/someweirdhuman)**
 - **[THE-GOD-OF-WORLD-OF-WARCRAFT](https://github.com/THE-GOD-OF-WORLD-OF-WARCRAFT)**
+- **[EdKay-Wrathnilla](https://github.com/EdKay-Wrathnilla)** -> Creator of Project Wrathnilla+; encouragement, discussion, and support for sharing and documenting this work.
 - **[gromchek](https://github.com/gromchek)**
 - **[Saty](https://github.com/SatyPardus)**
 - **[xidk](Not sure yet, will update when I know)**
