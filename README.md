@@ -19,6 +19,7 @@ Below you find all the people who has ever helped me with anything related to re
 - **[EdKay-Wrathnilla](https://github.com/EdKay-Wrathnilla)** -> Creator of Project Wrathnilla+; encouragement, discussion, and support for sharing and documenting this work.
 - **[gromchek](https://github.com/gromchek)**
 - **[Saty](https://github.com/SatyPardus)**
+- **[AzDeltaQQ](https://github.com/AzDeltaQQ)**
 - **[xidk](Not sure yet, will update when I know)**
 
 **Special Thanks:**
