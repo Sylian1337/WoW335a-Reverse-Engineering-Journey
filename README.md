@@ -19,8 +19,7 @@ Below you find all the people who has ever helped me with anything related to re
 - **[EdKay-Wrathnilla](https://github.com/EdKay-Wrathnilla)** -> Creator of Project Wrathnilla+; encouragement, discussion, and support for sharing and documenting this work.
 - **[gromchek](https://github.com/gromchek)**
 - **[Saty](https://github.com/SatyPardus)**
-- **[AzDeltaQQ](https://github.com/AzDeltaQQ)**
-- **[xidk](Not sure yet, will update when I know)**
+- **[AzDeltaQQ/xidk](https://github.com/AzDeltaQQ)**
 
 **Special Thanks:**
 - The WoW modding community for years of shared knowledge
