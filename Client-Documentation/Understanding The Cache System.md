@@ -1,4 +1,4 @@
-# Understanding Cache System.
+# Understanding The Cache System
 
 So, the cache is how our client stores data about items and many other things.
 I will make this documentation better later; for now, I will just focus on the item name cache.
