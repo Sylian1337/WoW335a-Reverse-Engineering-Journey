@@ -28,7 +28,7 @@ This documentation is shared under the [Creative Commons Attribution-ShareAlike 
 
 ## 👥 Credits
 
-Below you find all the people who has ever helped me with anything related to reversing the client.
+Below you find all the people who have ever helped me with anything related to reversing the client.
 
 ** Credits Goes To For Helping: **
 - **[Kaev](https://github.com/Kaev)**
@@ -36,7 +36,7 @@ Below you find all the people who has ever helped me with anything related to re
 - **[THE-GOD-OF-WORLD-OF-WARCRAFT](https://github.com/THE-GOD-OF-WORLD-OF-WARCRAFT)**
 - **[gromchek](https://github.com/gromchek)**
 - **[Saty](https://github.com/SatyPardus)**
-- **[xidk](Not sure yet, will update when I know)**
+- **[AzDeltaQQ/xidk](https://github.com/AzDeltaQQ)**
 
 **Special Thanks:**
 - The WoW modding community for years of shared knowledge
