@@ -1,5 +1,6 @@
 # Understanding The DBC Loading Flow
 The client needs to load all our **DBCs**. The way that is done is that it loads all these during the start-up of the game, and in this document, I will outline the whole **DBC** loading flow for you.
+
 The first function called will be **StaticDBLoadAll** (**0x6337D0**):
 ```C++
 // 00005400
@@ -20,6 +21,7 @@ int __usercall StaticDBLoadAll@<eax>(void (__thiscall *a1)(void *this)@<esi>)
 ---
 
 For each of the **DBCs**, it calls a **DBCLoadFunction (0x6348B0)**, which is called for each of the **DBCs**
+
 Here is how that function looks:
 ```C++
 int __thiscall DBCLoadFunction(void *this)
@@ -29,7 +31,9 @@ int __thiscall DBCLoadFunction(void *this)
 ```
 ---
 
-Our **DBCLoadFunction** is now calling another function to load the DBC we are currently looking at, which, if we just take the example of **Spell.DBC**, that function would be our **WowClientDB__SpellRec__LoadDB (0x650940)**. Each DBC has its own function for each of them loading.
+Our **DBCLoadFunction** is now calling another function to load the DBC we are currently looking at, which, if we just take the example of **Spell.DBC**, that function would be our **WowClientDB__SpellRec__LoadDB (0x650940)**.
+
+Each DBC has its own function for each of them.
 ```C++
 void __thiscall WowClientDB__SpellRec__LoadDB(_DWORD *this, char *filename, int32_t ExitCode)
 {
